@@ -10,7 +10,8 @@
     "test": "echo '=== DUMMY TEST ==='"
   },
   "dependencies": {
-    "game-2048": "^0.0.7"
+    "game-2048": "^0.0.7",
+    "http-server": "^14.1.1"
   },
   "devDependencies": {
     "css-loader": "^6.7.1",
